@@ -75,14 +75,3 @@ The primary objectives of this project are to:
 - **Lib folder:** Includes an IPython notebook
 
 ---
-
-## Key Concepts Explored
-
-1. FbProphet and its parameters.
-2. Building and fine-tuning FbProphet models.
-3. Introduction to Cesium and feature extraction.
-4. Building and training a Multi-Layer Perceptron (MLP) model.
-5. Making predictions on test data.
-6. Visualizing the results.
-
----
